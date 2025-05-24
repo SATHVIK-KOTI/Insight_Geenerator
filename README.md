@@ -1,1 +1,1 @@
-# Insight_Geenerator
+# Insight_Generator
